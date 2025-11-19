@@ -1,4 +1,7 @@
-Hi all! I am currently majoring in Mathematics & Computer Science, and I am passionate about data science and machine learning.
+### A little bit about me
+Hey all! I am a Comp Sci major with a specialization in Artificial intelligence + Math minor, and I am passionate about data science and machine learning.
+
+Let's connect if you also enjoy building cool stuff ;)
 
 <!---
 nian3n/nian3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
