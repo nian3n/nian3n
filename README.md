@@ -1,5 +1,5 @@
 ### A little bit about me
-Hey all! I am a Comp Sci major with a specialization in Artificial intelligence + Math minor, and I am passionate about data science and machine learning.
+Hey all! I am a Comp Sci major with a specialization in Artificial intelligence and a minor in Math, and I am passionate about data science and machine learning.
 
 Let's connect if you also enjoy building cool stuff ;)
 
